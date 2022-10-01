@@ -1,5 +1,6 @@
 # Avance de Guias
 
-**GUIA 1:** 100% completado
-**GUIA 2:** 100% completado
-**GUIA 3:** 100% completado
+- **GUIA 1:** 100% completado
+- **GUIA 2:** 100% completado
+- **GUIA 3:** 100% completado
+- **GUIA 4:** 100% completado
